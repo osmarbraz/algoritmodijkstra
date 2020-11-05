@@ -4,5 +4,5 @@ O problema consiste, então, em se achar o caminho mais curto entre duas cidades
 
 O arquivo Dijkstra.alg possui o algoritmo para ser executado no VisualG.
 
-E no arquivo Dijkstra.docx um detalhamento do algoritmo.
+O arquivo Dijkstra.docx é um detalhamento do algoritmo.
  
